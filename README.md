@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # To-Do List
 
 A clean task manager that runs entirely in the browser. No build step, no backend, no dependencies at runtime.
@@ -55,3 +56,6 @@ Tasks are stored under the `taskly.tasks.v1` key as JSON:
 ```
 
 Corrupted or malformed stored data is discarded safely, and the app keeps working in memory if `localStorage` is unavailable (private browsing, blocked storage).
+=======
+# to-do-list
+>>>>>>> 0d93e1cc0a2f81be555f7dbed3aad415f0fc96cd
